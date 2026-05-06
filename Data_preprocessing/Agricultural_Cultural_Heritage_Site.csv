@@ -1,0 +1,191 @@
+﻿NUM,ID,Name,Cite,Lon,Lat,Type1,Type2,Type
+26,1,河北宣化传统葡萄园,河北省张家口市宣化区春光乡,115.061,40.655,林业和林果系统,Forestry and forestry products system,FFPS
+27,2,内蒙古敖汉旱作农业系统,内蒙古赤峰市敖汉旗宝国吐乡,119.916,42.289,旱作农业系统,Dryland farming system,DFS
+28,3,辽宁鞍山南果梨栽培系统,辽宁省鞍山市千山区大孤山镇对桩石村,123.046,41.009,林业和林果系统,Forestry and forestry products system,FFPS
+29,4,辽宁宽甸柱参传统栽培体系,辽宁省丹东市宽甸满族自治县振江镇石柱子村,125.405,40.767,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+30,5,江苏兴化垛田传统农业系统,江苏省泰州市兴化市垛田镇,119.856,32.932,土地利用系统,Land use system,LUS
+31,6,浙江青田稻鱼共生系统,浙江青田县方山乡龙现村,120.304,27.995,复合农业生产系统,Comprehensive agricultural production system,CAPS
+32,7,浙江绍兴会稽山古香榧群,浙江绍兴市柯桥区稽东镇,120.576,29.775,林业和林果系统,Forestry and forestry products system,FFPS
+33,8,福建福州茉莉花种植与茶文化系统,福建省福州市闽侯县上街镇侯官村,119.187,26.1,茶文化系统,Tea culture system,TCS
+34,9,福建尤溪联合梯田,福建省三明市尤溪县联合镇,118.227,26.373,稻作农业系统,Rice farming system,RFS
+35,10,江西万年稻作文化系统,江西万年县裴梅镇荷桥村山区,117.132,28.604,稻作农业系统,Rice farming system,RFS
+36,11,湖南新化紫鹊界梯田,湖南省娄底市新化县水车镇,110.992,27.679,稻作农业系统,Rice farming system,RFS
+37,12,云南红河哈尼稻作梯田系统,云南红河州哀牢山区,103.373,23.366,稻作农业系统,Rice farming system,RFS
+38,13,云南普洱古茶园与茶文化系统,云南普洱市惠民乡景迈村,99.996,22.218,茶文化系统,Tea culture system,TCS
+39,14,贵州从江侗乡稻鱼鸭系统,贵州从江县加榜乡加车村,108.573,25.59,复合农业生产系统,Comprehensive agricultural production system,CAPS
+40,15,陕西佳县古枣园,陕西省榆林市佳县朱家坬镇泥河沟村,110.494,38.187,林业和林果系统,Forestry and forestry products system,FFPS
+41,16,甘肃皋兰什川古梨园,甘肃省兰州市皋兰县什川镇,104.005,36.152,林业和林果系统,Forestry and forestry products system,FFPS
+42,17,甘肃迭部扎尕那农林牧复合系统,甘肃省甘南藏族自治州迭部县益哇镇扎尕那行政村,103.19,34.239,复合农业生产系统,Comprehensive agricultural production system,CAPS
+43,18,新疆吐鲁番坎儿井农业系统,新疆维吾尔自治区吐鲁番市高昌区新城西门村,89.143,42.944,水利灌溉系统,Water irrigation system,WIS
+44,19,天津滨海崔庄古冬枣园,天津市滨海新区大港太平镇崔庄村,117.233,38.629,林业和林果系统,Forestry and forestry products system,FFPS
+45,20,河北宽城传统板栗栽培系统,河北省承德市宽城满族自治县铧尖镇,118.547,40.342,林业和林果系统,Forestry and forestry products system,FFPS
+46,21,河北涉县旱作梯田系统,河北省邯郸市涉县井店镇王金庄村,113.829,36.59,旱作农业系统,Dryland farming system,DFS
+47,22,内蒙古阿鲁科尔沁草原游牧系统,内蒙古自治区赤峰市阿鲁科尔沁旗巴彦温都尔苏木,119.69,44.722,畜牧水产系统,Livestock and aquaculture system,LAS
+48,23,浙江杭州西湖龙井茶文化系统,浙江省杭州市西湖区西湖街道龙井村,120.102,30.221,茶文化系统,Tea culture system,TCS
+49,24,浙江湖州桑基鱼塘系统,浙江省湖州市南浔区和孚镇荻港村,120.154,30.757,复合农业生产系统,Comprehensive agricultural production system,CAPS
+50,25,浙江庆元香菇文化系统,浙江省丽水市庆元县百山祖镇,119.18,27.738,复合农业生产系统,Comprehensive agricultural production system,CAPS
+51,26,福建安溪铁观音茶文化系统,福建省泉州市安溪县西坪镇,117.944,25.022,茶文化系统,Tea culture system,TCS
+52,27,江西崇义客家梯田系统,江西省赣州市崇义县上堡乡水南村,114.047,25.769,稻作农业系统,Rice farming system,RFS
+53,28,山东夏津黄河故道古桑树群,山东省德州市夏津县苏留庄镇,116.135,37.092,林业和林果系统,Forestry and forestry products system,FFPS
+54,29,湖北赤壁羊楼洞砖茶文化系统,湖北省咸宁市赤壁市羊楼洞古镇,113.743,29.543,茶文化系统,Tea culture system,TCS
+55,30,湖南新晃侗藏红米种植系统,湖南省怀化市新晃侗族自治县扶罗镇,109.138,27.191,稻作农业系统,Rice farming system,RFS
+56,31,广东潮安凤凰单丛茶文化系统,广东省潮州市潮安区凤凰镇乌岽村,116.654,23.955,茶文化系统,Tea culture system,TCS
+57,32,广西龙胜龙脊梯田系统,广西桂林市龙胜各族自治县龙脊镇,110.068,25.735,稻作农业系统,Rice farming system,RFS
+58,33,四川江油辛夷花传统栽培体系,四川省绵阳市江油市大康镇旱丰村,104.65,31.845,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+59,34,云南广南八宝稻作生态系统,云南省文山州广南县八宝镇,105.432,23.746,稻作农业系统,Rice farming system,RFS
+60,35,云南剑川稻麦复种系统,云南省大理州剑川县剑湖周边金华镇,99.912,26.537,稻作农业系统,Rice farming system,RFS
+61,36,甘肃岷县当归种植系统,甘肃省定西市岷县梅川镇西坝村,104.024,34.574,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+62,37,宁夏灵武长枣种植系统,宁夏回族自治区银川市灵武市东塔镇果园村,106.359,38.084,林业和林果系统,Forestry and forestry products system,FFPS
+63,38,新疆哈密市哈密瓜栽培与贡瓜文化系统,新疆维吾尔自治区哈密市伊州区花园乡,93.476,42.747,蔬菜瓜果系统,Vegetable and fruit system,VFS
+64,39,北京平谷四座楼麻核桃生产系统,北京市平谷区熊儿寨乡,117.128,40.284,林业和林果系统,Forestry and forestry products system,FFPS
+65,40,北京京西稻作文化系统,北京市海淀区上庄镇,116.209,40.095,稻作农业系统,Rice farming system,RFS
+66,41,辽宁桓仁京租稻栽培系统,辽宁省本溪市桓仁满族自治县桓仁镇,125.31,41.302,稻作农业系统,Rice farming system,RFS
+67,42,吉林延边苹果梨栽培系统,吉林省延边州龙井市老头沟镇小箕村,129.135,42.884,林业和林果系统,Forestry and forestry products system,FFPS
+68,43,黑龙江抚远赫哲族鱼文化系统,黑龙江省佳木斯市抚远市抓吉赫哲族村,134.645,48.169,畜牧水产系统,Livestock and aquaculture system,LAS
+69,44,黑龙江宁安响水稻作文化系统,黑龙江省牡丹江市宁安市渤海镇,129.162,44.119,稻作农业系统,Rice farming system,RFS
+70,45,江苏泰兴银杏栽培系统,江苏省泰州市泰兴市宣堡镇,119.989,32.298,林业和林果系统,Forestry and forestry products system,FFPS
+71,46,浙江仙居杨梅栽培系统,浙江省台州市仙居县横溪程岙,120.431,28.769,林业和林果系统,Forestry and forestry products system,FFPS
+72,47,浙江云和梯田农业系统:,浙江省丽水市云和县崇头镇,119.488,28.059,稻作农业系统,Rice farming system,RFS
+73,48,安徽寿县芍陂(安丰塘)及灌区农业系统,安徽省淮南市寿县安丰塘镇,116.674,32.327,水利灌溉系统,Water irrigation system,WIS
+74,49,安徽休宁山泉流水养鱼系统,安徽省黄山市休宁县板桥乡,117.948,29.61,畜牧水产系统,Livestock and aquaculture system,LAS
+75,50,山东枣庄古枣林,山东省枣庄市山亭区店子镇,117.36,35.275,林业和林果系统,Forestry and forestry products system,FFPS
+76,51,山东乐陵枣林复合系统,山东省德州市乐陵市朱集镇,117.265,37.785,林业和林果系统,Forestry and forestry products system,FFPS
+77,52,河南灵宝川塬古枣林,河南省三门峡市灵宝市大王镇,111.018,34.658,林业和林果系统,Forestry and forestry products system,FFPS
+78,53,湖北恩施玉露茶文化系统,湖北省恩施土家族苗族自治州恩施市芭蕉侗族乡黄连溪村,109.363,30.087,茶文化系统,Tea culture system,TCS
+79,54,广西隆安壮族“那文化”稻作文化系统,广西南宁市隆安县南圩镇,107.666,23.128,稻作农业系统,Rice farming system,RFS
+80,55,四川苍溪雪梨栽培系统,广元市苍溪县陵江镇,105.934,31.727,林业和林果系统,Forestry and forestry products system,FFPS
+81,56,贵州花溪古茶树与茶文化系统,贵州省贵阳市花溪区久安乡,106.587,26.52,茶文化系统,Tea culture system,TCS
+82,57,云南双江勐库古茶园与茶文化系统,云南省临沧市双江县勐库,99.883,23.619,茶文化系统,Tea culture system,TCS
+83,58,甘肃永登苦水玫瑰农作系统,甘肃省兰州市永登县苦水镇,103.431,36.272,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+84,59,宁夏中宁枸杞种植系统,宁夏中卫市中宁县舟塔乡潘营村,105.605,37.48,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+85,60,新疆奇台旱作农业系统,新疆维吾尔自治区昌吉州奇台县东湾,89.386,43.963,旱作农业系统,Dryland farming system,DFS
+86,61,河北迁西板栗复合栽培系统,河北省唐山市迁西县汉儿庄镇,118.216,40.365,林业和林果系统,Forestry and forestry products system,FFPS
+87,62,河北兴隆传统山楂栽培系统,河北省承德市兴隆县六道河镇,117.32,40.397,林业和林果系统,Forestry and forestry products system,FFPS
+88,63,山西稷山板枣生产系统,山西省运城市稷山县稷峰镇,110.978,35.604,林业和林果系统,Forestry and forestry products system,FFPS
+89,64,内蒙古伊金霍洛农牧生产系统,内蒙古自治区鄂尔多斯市伊金霍洛旗伊金霍洛镇,109.795,39.342,复合农业生产系统,Comprehensive agricultural production system,CAPS
+90,65,吉林柳河山葡萄栽培系统,吉林省通化市柳河县柳河镇,125.732,42.288,林业和林果系统,Forestry and forestry products system,FFPS
+91,66,江苏高邮湖泊湿地农业系统,江苏省扬州市高邮市界首镇,119.42,33.005,复合农业生产系统,Comprehensive agricultural production system,CAPS
+92,67,江苏无锡阳山水蜜桃栽培系统,江苏省无锡市惠山区阳山镇,120.083,31.577,林业和林果系统,Forestry and forestry products system,FFPS
+93,68,浙江德清淡水珍珠传统养殖与利用系统,浙江省湖州市德清县阜溪街道龙胜村,120.016,30.613,畜牧水产系统,Livestock and aquaculture system,LAS
+94,69,安徽铜陵白姜种植系统,安徽省铜陵市天门镇,117.835,30.834,蔬菜瓜果系统,Vegetable and fruit system,VFS
+95,70,安徽黄山太平猴魁茶文化系统,安徽省黄山市黄山区新明乡猴坑村,118.197,30.371,茶文化系统,Tea culture system,TCS
+96,71,福建福鼎白茶文化系统,福建省宁德市福鼎市点头镇,120.179,27.235,茶文化系统,Tea culture system,TCS
+97,72,江西南丰蜜橘栽培系统,江西省抚州市南丰县琴城镇水南村,116.52,27.201,林业和林果系统,Forestry and forestry products system,FFPS
+98,73,江西广昌莲作文化系统,江西省抚州市广昌县姚西村,116.298,26.545,蔬菜瓜果系统,Vegetable and fruit system,VFS
+99,74,山东章丘大葱栽培系统,山东省济南市章丘区绣惠街道王金村,117.481,36.83,蔬菜瓜果系统,Vegetable and fruit system,VFS
+100,75,河南新安传统樱桃种植系统,河南省洛阳市新安县五头镇,112.225,34.765,林业和林果系统,Forestry and forestry products system,FFPS
+101,76,湖南新田三味辣椒种植系统,湖南省永州市新田县陶岭镇,112.328,25.739,蔬菜瓜果系统,Vegetable and fruit system,VFS
+102,77,湖南花垣子腊贡米复合种养系统,湖南省湘西土家族苗族自治州花垣县石栏镇子腊村,109.384,28.389,复合农业生产系统,Comprehensive agricultural production system,CAPS
+103,78,广西恭城月柿栽培系统,广西桂林市恭城瑶族自治县莲花镇,110.871,24.731,林业和林果系统,Forestry and forestry products system,FFPS
+104,79,海南海口羊山荔枝种植系统,海南省海口市西南部石山镇,110.205,19.938,林业和林果系统,Forestry and forestry products system,FFPS
+105,80,海南琼中山兰稻作文化系统,海南省琼中黎族苗族自治县上安乡南万村,109.807,18.881,稻作农业系统,Rice farming system,RFS
+106,81,重庆石柱黄连生产系统,重庆市石柱土家族自治县黄水镇,108.391,30.243,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+107,82,四川盐亭嫘祖蚕桑生产系统,四川省绵阳市盐亭县金鸡镇,105.62,31.01,蚕桑系统,Silkworm system,SS
+108,83,四川名山蒙顶山茶文化系统,四川省雅安市名山区蒙顶山镇,103.092,30.072,茶文化系统,Tea culture system,TCS
+109,84,云南腾冲槟榔江水牛养殖系统,云南省保山市腾冲市猴桥镇,98.277,25.327,畜牧水产系统,Livestock and aquaculture system,LAS
+110,85,陕西凤县大红袍花椒栽培系统,陕西省宝鸡市凤县双石铺镇十里店村,106.549,33.889,林业和林果系统,Forestry and forestry products system,FFPS
+111,86,陕西蓝田大杏种植系统,陕西省西安市蓝田县华胥镇阿氏村,109.191,34.244,林业和林果系统,Forestry and forestry products system,FFPS
+112,87,宁夏盐池滩羊养殖系统,宁夏回族自治区吴忠市盐池县花马池镇,107.388,37.791,畜牧水产系统,Livestock and aquaculture system,LAS
+113,88,新疆伊犁察布查尔布哈农业系统,新疆察布查尔县爱新舍里镇,80.798,43.8,水利灌溉系统,Water irrigation system,WIS
+114,89,天津津南小站稻种植系统,天津市津南区小站镇会馆村,117.411,38.892,稻作农业系统,Rice farming system,RFS
+115,90,内蒙古乌拉特后旗戈壁红驼牧养系统,内蒙古自治区巴彦淖尔市乌拉特后旗获各琦苏木前达门嘎查,105.859,41.242,畜牧水产系统,Livestock and aquaculture system,LAS
+116,91,辽宁阜蒙旱作农业系统,辽宁省阜新市阜新蒙古族自治县化石戈镇,121.103,42.05,旱作农业系统,Dryland farming system,DFS
+117,92,江苏吴中碧螺春茶果复合系统,江苏苏州市吴中区东山镇,120.402,31.087,复合农业生产系统,Comprehensive agricultural production system,CAPS
+118,93,江苏宿豫丁嘴金针菜生产系统,江苏省宿迁市宿豫区丁嘴镇登山村,118.525,33.871,蔬菜瓜果系统,Vegetable and fruit system,VFS
+119,94,浙江宁波黄古林蔺草-水稻轮作系统,浙江省宁波市海曙区古林镇,121.431,29.838,稻作农业系统,Rice farming system,RFS
+120,95,浙江安吉竹文化系统,浙江省湖州市安吉县昌硕街道双一村,119.727,30.573,林业和林果系统,Forestry and forestry products system,FFPS
+121,96,浙江黄岩蜜橘筑墩栽培系统,浙江省台州市黄岩区头陀镇断江村,121.163,28.628,林业和林果系统,Forestry and forestry products system,FFPS
+122,97,浙江开化山泉流水养鱼系统,浙江省衢州市开化县何田乡,118.311,29.332,畜牧水产系统,Livestock and aquaculture system,LAS
+123,98,江西泰和乌鸡林下养殖系统,江西省吉安市泰和县汪陂村,114.779,26.786,复合农业生产系统,Comprehensive agricultural production system,CAPS
+124,99,江西横峰葛栽培系统,江西省上饶市横峰县葛源镇,117.665,28.602,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+125,100,山东岱岳汶阳田农作系统,山东省泰安市岱岳区大汶口镇,117.083,35.954,旱作农业系统,Dryland farming system,DFS
+126,101,河南嵩县银杏文化系统,河南省洛阳市嵩县白河镇,111.944,33.635,林业和林果系统,Forestry and forestry products system,FFPS
+127,102,湖南安化黑茶文化系统,湖南省益阳市安化县梅城镇,111.644,28.142,茶文化系统,Tea culture system,TCS
+128,103,湖南保靖黄金寨古茶园与茶文化系统,湖南省湘西土家族苗族自治州保靖县吕洞山镇黄金村,109.772,28.448,茶文化系统,Tea culture system,TCS
+129,104,湖南永顺油茶林农复合系统,湖南省湘西土家族苗族自治州永顺县灵溪镇长光村,109.894,29.079,复合农业生产系统,Comprehensive agricultural production system,CAPS
+130,105,广东佛山基塘农业系统,广东省佛山市南海区西樵镇,112.982,22.941,复合农业生产系统,Comprehensive agricultural production system,CAPS
+131,106,广东岭南荔枝种植系统(增城、东莞),广东省广州市增城区正果镇兰溪村,113.948,23.365,林业和林果系统,Forestry and forestry products system,FFPS
+131,107,广东岭南荔枝种植系统(增城、东莞),广东省广州市东莞区大朗镇水平村,113.755,23.682,林业和林果系统,Forestry and forestry products system,FFPS
+132,108,广西横县茉莉花复合栽培系统,广西壮族自治区南宁市横州市校椅镇石井村,109.251,22.776,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+133,109,重庆大足黑山羊传统养殖系统,重庆市大足区铁山镇太平村,105.564,29.689,畜牧水产系统,Livestock and aquaculture system,LAS
+134,110,重庆万州红桔栽培系统,重庆市万州区太龙镇,108.531,30.905,林业和林果系统,Forestry and forestry products system,FFPS
+135,111,四川郫都林盘农耕文化系统,四川省成都市郫都区唐昌镇,103.82,30.922,土地利用系统,Land use system,LUS
+136,112,四川宜宾竹文化系统,四川省宜宾市长宁县竹海镇,104.93,28.503,林业和林果系统,Forestry and forestry products system,FFPS
+137,113,四川石渠扎溪卡游牧系统,四川省甘孜藏族自治州石渠县长须贡马乡,98.928,32.762,畜牧水产系统,Livestock and aquaculture system,LAS
+138,114,贵州锦屏杉木传统种植与管理系统,贵州省黔东南州锦屏县平秋镇魁胆村,109.088,26.682,林业和林果系统,Forestry and forestry products system,FFPS
+139,115,贵州安顺屯堡农业系统,贵州省安顺市西秀区大西桥镇鲍家屯,106.118,26.331,复合农业生产系统,Comprehensive agricultural production system,CAPS
+140,116,陕西临潼石榴种植系统,陕西省西安市临潼区马额街道,109.384,34.403,林业和林果系统,Forestry and forestry products system,FFPS
+141,117,山西阳城蚕桑文化系统,山西省晋城市阳城县寺头乡,112.388,35.622,蚕桑系统,Silkworm system,SS
+142,118,内蒙古武川燕麦传统旱作系统,内蒙古自治区呼和浩特市武川县上秃亥乡,111.302,41.185,旱作农业系统,Dryland farming system,DFS
+143,119,内蒙古东乌珠穆沁旗游牧生产系统,内蒙古东乌珠穆沁旗满都宝力格镇,116.968,45.496,畜牧水产系统,Livestock and aquaculture system,LAS
+144,120,吉林和龙林下参--芝抚育系统,吉林省延边州和龙市八家子镇,129.119,42.667,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+145,121,江苏启东沙地圩田农业系统,江苏省南通市启东市海复镇,121.681,31.988,土地利用系统,Land use system,LUS
+146,122,江苏吴江蚕桑文化系统,江苏省苏州市吴江区震泽镇,120.505,30.915,蚕桑系统,Silkworm system,SS
+147,123,浙江缙云茭白--麻鸭共生系统,浙江省丽水市缙云县前路乡水口村,120.276,28.754,复合农业生产系统,Comprehensive agricultural production system,CAPS
+148,124,浙江桐乡蚕桑文化系统,浙江省嘉兴市桐乡市河山镇八泉村,120.401,30.627,蚕桑系统,Silkworm system,SS
+149,125,安徽太湖山地复合农业系统,安徽省安庆市太湖县大别山区,116.112,30.449,复合农业生产系统,Comprehensive agricultural production system,CAPS
+150,126,福建松溪竹蔗栽培系统,福建省南平市松溪县万前村,118.717,27.434,复合农业生产系统,Comprehensive agricultural production system,CAPS
+151,127,江西浮梁茶文化系统,江西省景德镇市浮梁县江村乡,117.363,29.774,茶文化系统,Tea culture system,TCS
+152,128,山东莱阳古梨树群系统,山东省烟台市莱阳市照旺庄镇,120.747,36.912,林业和林果系统,Forestry and forestry products system,FFPS
+153,129,山东峄城石榴种植系统,山东省枣庄市峄城区榴园镇王府山,117.539,34.768,林业和林果系统,Forestry and forestry products system,FFPS
+154,130,湖南龙山油桐种植系统,湖南省湘西州龙山县咱果乡,109.35,29.028,林业和林果系统,Forestry and forestry products system,FFPS
+155,131,广东海珠高畦深沟传统农业系统,广东省广州市海珠区华洲街道龙潭村,113.33,23.081,土地利用系统,Land use system,LUS
+156,132,广西桂西北山地稻鱼复合系统,广西省百色市靖西市南坡乡底定村,105.986,23.093,复合农业生产系统,Comprehensive agricultural production system,CAPS
+157,133,云南文山三七种植系统,云南省文山壮族苗族自治州砚山县盘龙乡,104.315,23.536,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+158,134,西藏当雄高寒游牧系统,西藏自治区拉萨市当雄县纳木错湖乡,91.086,30.733,畜牧水产系统,Livestock and aquaculture system,LAS
+159,135,西藏乃东青稞种植系统,西藏自治区山南市乃东区昌珠镇,91.771,29.19,旱作农业系统,Dryland farming system,DFS
+160,136,陕西汉阴凤堰稻作梯田系统,陕西省安康市汉阴县漩涡镇堰坪村,108.417,32.797,稻作农业系统,Rice farming system,RFS
+161,137,广东岭南荔枝种植系统(茂名),广东茂名市高州根子柏桥贡园,111.045,21.804,林业和林果系统,Forestry and forestry products system,FFPS
+162,138,北京怀柔板栗栽培系统,北京市怀柔区九渡河镇,116.453,40.36,林业和林果系统,Forestry and forestry products system,FFPS
+163,139,北京门头沟京白梨栽培系统,北京市门头沟区军庄镇,116.097,40.004,林业和林果系统,Forestry and forestry products system,FFPS
+164,140,河北赵县古梨园,河北省石家庄市赵县谢庄镇,114.981,37.809,林业和林果系统,Forestry and forestry products system,FFPS
+165,141,河北涿鹿龙眼葡萄栽培系统,河北省张家口市涿鹿县温泉屯镇,115.372,40.346,林业和林果系统,Forestry and forestry products system,FFPS
+166,142,河北泊头古桑林,河北省沧州市泊头市营子镇,116.445,38.159,林业和林果系统,Forestry and forestry products system,FFPS
+167,143,山西浑源恒山黄芪栽培系统,山西省大同市浑源县官儿乡大峪沟村,113.637,39.514,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+168,144,山西长治党参栽培系统(长治市平顺县、壶关县),山西省长治市平顺县西沟乡石匣村,113.452,36.118,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+168,145,山西长治党参栽培系统(长治市平顺县、壶关县),山西省长治市壶关县晋庄镇北庄村,113.37,36.028,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+169,146,内蒙古库伦荞麦旱作系统,内蒙古自治区通辽市库伦旗扣河子镇平安村,121.26,42.612,旱作农业系统,Dryland farming system,DFS
+170,147,辽宁西丰梅花鹿养殖系统,辽宁省铁岭市西丰县郜家店镇安乐村,124.454,42.712,畜牧水产系统,Livestock and aquaculture system,LAS
+171,148,吉林长白山人参栽培系统(通化市集安;白山市抚松县、延边朝鲜族自治州安图）,吉林省通化市集安市大路镇古马岭村,125.643,40.927,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+171,149,吉林长白山人参栽培系统(通化市集安;白山市抚松县、延边朝鲜族自治州安图）,吉林省白山市抚松县万良镇小屯村,127.246,42.44,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+171,150,吉林长白山人参栽培系统(通化市集安;白山市抚松县、延边朝鲜族自治州安图）,吉林省延边朝鲜族自治州安图县两江镇白河村,128.054,42.576,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+172,151,上海金山蟠桃栽培系统,上海市金山区吕巷镇,121.178,30.834,林业和林果系统,Forestry and forestry products system,FFPS
+173,152,江苏吴中传统水生蔬菜栽培系统,江苏省苏州市吴中区江湾村,120.75,31.238,蔬菜瓜果系统,Vegetable and fruit system,VFS
+174,153,江苏吴江基塘农业系统,江苏省苏州市吴江区黎里镇东秋村,120.868,31.033,复合农业生产系统,Comprehensive agricultural production system,CAPS
+175,154,浙江吴兴溇港圩田农业系统,浙江省湖州市吴兴区织里镇,120.265,30.865,土地利用系统,Land use system,LUS
+176,155,浙江东阳元胡水稻轮作系统,浙江省金华市东阳市横店,120.34,29.158,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+177,156,浙江天台乌药林下栽培系统,浙江省台州市天台县三州乡下屋村,120.795,29.215,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+178,157,安徽义安凤丹栽培系统,安徽省铜陵市义安区凤凰山村,118.023,30.875,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+179,158,安徽青阳九华黄精栽培系统,安徽省池州市青阳县庙前镇玉屏村,117.732,30.571,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+180,159,安徽歙县梯地茶园系统,安徽省黄山市歙县街源蜈蚣岭村,118.615,29.738,茶文化系统,Tea culture system,TCS
+181,160,福建长乐番薯种植系统,福建省福州市长乐区文岭镇,119.651,25.997,蔬菜瓜果系统,Vegetable and fruit system,VFS
+182,161,福建武夷岩茶文化系统,福建省南平市武夷山市武夷山,118.03,27.76,茶文化系统,Tea culture system,TCS
+183,162,江西湖口大豆栽培系统,江西省九江市湖口县流芳乡,116.267,29.543,蔬菜瓜果系统,Vegetable and fruit system,VFS
+184,163,山东昌邑山阳大梨栽培系统,山东省潍坊市昌邑市饮马镇山阳村,119.391,36.663,林业和林果系统,Forestry and forestry products system,FFPS
+185,164,山东平邑金银花—山楂复合系统,山东临沂市平邑县郑城镇,117.659,35.266,复合农业生产系统,Comprehensive agricultural production system,CAPS
+186,165,山东临清黄河故道古桑树群,山东聊城市临清市新华路街道郭堤村,115.765,36.867,林业和林果系统,Forestry and forestry products system,FFPS
+187,166,河南宁陵黄河故道古梨园,河南省商丘市宁陵县石桥镇,115.311,34.505,林业和林果系统,Forestry and forestry products system,FFPS
+188,167,河南林州太行菊栽培系统,河南省安阳市林州市茶店镇,113.819,35.831,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+189,168,湖北秭归柑橘栽培系统,湖北省宜昌市秭归县郭家坝镇,110.751,30.955,林业和林果系统,Forestry and forestry products system,FFPS
+190,169,湖北京山稻作文化系统,湖北省荆门市京山市孙桥镇,113.015,31.088,稻作农业系统,Rice farming system,RFS
+191,170,湖北咸宁古桂花树群,湖北省咸宁市咸安区桂花镇柏墩村,114.345,29.72,林业和林果系统,Forestry and forestry products system,FFPS
+192,171,湖南洪江山地香稻栽培文化系统,湖南省怀化市洪江市深渡苗族乡,110.088,27.132,稻作农业系统,Rice farming system,RFS
+193,172,广东增城丝苗米文化系统,广东省广州市增城区朱村街,113.697,23.277,稻作农业系统,Rice farming system,RFS
+194,173,广东南雄水旱轮作系统,广东省韶关市南雄市珠玑镇,114.356,25.196,复合农业生产系统,Comprehensive agricultural production system,CAPS
+195,174,广东饶平单丛茶文化系统,广东省潮州市潮安区凤凰镇,116.698,23.906,茶文化系统,Tea culture system,TCS
+196,175,广西永福罗汉果栽培系统,广西桂林市永福县龙江乡,109.828,25.247,中药材花卉系统,Chinese medicinal herb and flower system,CMHFS
+197,176,广西苍梧六堡茶文化系统,广西梧州市苍梧县六堡镇,111.376,23.815,茶文化系统,Tea culture system,TCS
+198,177,海南白沙黎族山兰稻作文化系统,海南省白沙县青松乡拥处村,109.294,19.165,稻作农业系统,Rice farming system,RFS
+199,178,重庆江津花椒栽培系统,重庆江津区先锋镇,106.299,29.214,林业和林果系统,Forestry and forestry products system,FFPS
+200,179,重庆荣昌猪养殖系统,重庆荣昌区广顺街道,105.52,29.372,畜牧水产系统,Livestock and aquaculture system,LAS
+201,180,四川北川苔子茶复合栽培系统,四川绵阳市北川县坝底乡茶马村,104.154,31.849,复合农业生产系统,Comprehensive agricultural production system,CAPS
+202,181,四川高坪蚕桑文化系统,四川省南充市高坪区会龙镇硝厂村,106.348,30.853,蚕桑系统,Silkworm system,SS
+203,182,四川筠连山地茶文化系统,四川省宜宾市筠连县巡司镇银星村,104.545,28.08,茶文化系统,Tea culture system,TCS
+204,183,贵州兴仁薏仁米栽培系统,贵州省黔西南州兴仁市下山镇,105.212,25.591,蔬菜瓜果系统,Vegetable and fruit system,VFS
+205,184,西藏芒康葡萄栽培系统,西藏自治区昌都市芒康县纳西民族乡,98.605,29.035,林业和林果系统,Forestry and forestry products system,FFPS
+206,185,西藏工布江达藏猪养殖系统,西藏自治区林芝市工布江达县朱拉乡柳四朗村,93.477,30.243,畜牧水产系统,Livestock and aquaculture system,LAS
+207,186,陕西府谷海红果栽培系统,陕西省榆林市府谷县古城镇沙坪村,111.056,39.46,林业和林果系统,Forestry and forestry products system,FFPS
+208,187,青海三江源曲麻莱高寒游牧系统,青海省玉树藏族自治州曲麻莱县曲麻河乡措池村,94.945,34.849,畜牧水产系统,Livestock and aquaculture system,LAS
+209,188,宁夏平原引黄灌溉农业系统,宁夏吴忠市青铜峡市大坝镇韦桥村,105.999,37.954,水利灌溉系统,Water irrigation system,WIS
+210,189,新疆叶城核桃栽培系统,新疆喀什地区叶城县河园镇,77.291,37.838,林业和林果系统,Forestry and forestry products system,FFPS
+211,190,新疆昭苏草原马牧养系统,新疆维吾尔自治区伊犁哈萨克自治州昭苏县昭苏马场,81.001,43.098,畜牧水产系统,Livestock and aquaculture system,LAS
